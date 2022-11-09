@@ -20,7 +20,7 @@
 * <a href="https://github.com/abtp2">Github</a>
 * <a href="https://youtube.com/channel/UCLoiTyWe84H8BoKE_19qTIA">Youtube</a>
 * <a href="https://t.me/Technical_Web">Telegram</a>
-
+* <a href="https://www.snapchat.com/add/ashutosh2pandey?share_id=yTVzbpogDBE&locale=en-GB">Snapchat</a>
 
 
 
