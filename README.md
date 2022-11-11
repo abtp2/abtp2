@@ -23,5 +23,3 @@
 * <a href="https://www.snapchat.com/add/ashutosh2pandey?share_id=yTVzbpogDBE&locale=en-GB">Snapchat</a>
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abtp2&show_icons=true&theme=github_dark)
