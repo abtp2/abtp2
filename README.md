@@ -10,8 +10,8 @@
 <p> </p>
 
 > **My Learnings :**
-* Html, Css and Javascript
-* Bootstrap, Tailwind, Rollercss and Github
+* Html, css and javascript
+* Bootstrap, Tailwind, ReactJS, Rollercss and Github
 * Python and C#
 
 <p> </p>
