@@ -11,7 +11,7 @@
 
 > **My Learnings :**
 * Html, css and javascript
-* Bootstrap, Tailwind, ReactJS, Rollercss and Github
+* Bootstrap, Tailwind, ReactJS, Jquery, Rollercss and Github
 * Python and C#
 
 <p> </p>
