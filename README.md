@@ -1,6 +1,8 @@
 <h2>Hi, I'm Ashutosh 👋</h2>
-<a href="https://ashutoshpandey.netlify.app"><img src="https://i.ibb.co/n1GG2YB/Screenshot-20221006-113000-Treb-Edit.jpg" alt="Screenshot-20221006-113000-Treb-Edit" border="0" /><p> </p></a>
-
+<kbd>
+<a href="https://ashutoshpandey.netlify.app"><img src="https://i.ibb.co/n1GG2YB/Screenshot-20221006-113000-Treb-Edit.jpg" alt="Screenshot-20221006-113000-Treb-Edit" border="0" /></a>
+</kbd>
+<p></p>
 
 > **About Myself :**
 * I love coding, maths and inventing new ideas.
