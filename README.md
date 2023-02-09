@@ -1,6 +1,6 @@
 <h2>Hi, I'm Ashutosh 👋🏻</h2>
 <kbd>
-<a href="https://ashutoshpandey.netlify.app"><img src="https://i.ibb.co/n1GG2YB/Screenshot-20221006-113000-Treb-Edit.jpg" alt="Screenshot-20221006-113000-Treb-Edit" border="0" /></a>
+<a href="https://ashutoshpandey.netlify.app"><img src="https://i.ibb.co/n1GG2YB/Screenshot-20221006-113000-Treb-Edit.jpg" alt="Ashutosh Pandey" border="0" /></a>
 </kbd>
 <p></p><p></p>
 
