@@ -11,7 +11,7 @@
 
 <p> </p>
 
-> **My Learnings :**
+> **My Skills :**
 * Html, css and javascript
 * Bootstrap, Tailwind, ReactJS, Jquery, Rollercss and Github
 * Python and C#
