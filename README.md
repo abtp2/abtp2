@@ -1,10 +1,10 @@
-<h2>Hi, I'm Ashutosh 👋🏻</h2>
+<h2>Hi, I'm Ashutosh <img src="https://i.ibb.co/TMXfrdf/ezgif-2-8bc4d95d29.gif" width="35px" height="35px"></h2>
 <kbd>
 <a href="https://ashutoshpandey.netlify.app"><img src="https://i.ibb.co/n1GG2YB/Screenshot-20221006-113000-Treb-Edit.jpg" alt="Ashutosh Pandey" border="0" /></a>
 </kbd>
 <p></p><p></p>
 
-> **About Myself :**
+> **About Me :**
 * I love coding, maths and inventing new ideas.
 * I'm addicted to learn or invent new things everyday.
 * I'm currently sharing a little bit of my knowledge with the peoples around the world through the Telegram group
