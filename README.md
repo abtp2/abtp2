@@ -12,7 +12,7 @@
 <p> </p>
 
 > **My Skills :**
-* Html, css and javascript
+* HTML, CSS and Javascript
 * Bootstrap, Tailwind, ReactJS, Jquery, Rollercss and Github
 * Python and C#
 
