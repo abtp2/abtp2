@@ -26,5 +26,3 @@
 ![abtp2's Stats](https://github-readme-stats.vercel.app/api?username=abtp2&theme=react&show_icons=true&hide_border=false&count_private=true)
 
 ![abtp2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abtp2&theme=react&hide_border=false)
-
-![abtp2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abtp2&theme=react&show_icons=true&hide_border=false&layout=compact)
