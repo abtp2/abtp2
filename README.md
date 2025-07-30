@@ -38,8 +38,10 @@
 
 <br/>
 
-> GitHub Stats & Trophies:
+> GitHub Stats, Streak & Trophies:
 
 ![Ashutosh_dev's Stats](https://github-readme-stats.vercel.app/api?username=abtp2&theme=react&show_icons=true&hide_border=false&count_private=true)
+
+![Ashutosh_dev's Streak](https://asyncpranav.vercel.app?user=abtp2&theme=react&hide_border=false)
 
 ![Ashutosh_dev's Trophies](https://github-profile-trophy.vercel.app/?username=abtp2&theme=algolia&title=-PullRequest,-Reviews&column=3&margin-w=10&margin-h=10)
